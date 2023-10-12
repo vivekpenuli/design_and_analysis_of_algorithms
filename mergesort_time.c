@@ -63,3 +63,5 @@ printf("\nthe time taken by your program is %lf sec\n",ts/CLOCKS_PER_SEC);
 
 
 // Objective is to find how much time required to run the allgo
+// output: the time taken by your program is 0.000002 sec
+
